@@ -14,3 +14,7 @@ Semita/obj/Semita\.csproj\.nuget\.dgspec\.json
 Semita/obj/Semita\.csproj\.nuget\.g\.props
 
 Semita/obj/Semita\.csproj\.nuget\.g\.targets
+
+Semita/bin/Debug/netcoreapp2\.2/
+
+Semita/obj/Debug/netcoreapp2\.2/
